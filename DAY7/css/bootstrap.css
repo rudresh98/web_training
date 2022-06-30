@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Smooch&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Diplomata+SC&display=swap");
+
+.box1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#box2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section .box3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.custom-border {
+  border: 3px black solid;
+}
+.c-h-50 {
+  height: 500px;
+}
+.c-p-1 {
+  font-size: 20px;
+  font-family: "Smooch", cursive;
+}
+.c-p-2 {
+  font-family: "Diplomata SC", cursive;
+}
+.c-p-2:hover {
+  color: red;
+  cursor: context-menu;
+}
+a:link {
+  color: blue;
+} /* Unvisited links */
+a:visited {
+  color: purple;
+} /* Visited links */
+a:hover {
+  background: yellow;
+} /* Hovered links */
+a:active {
+  color: red;
+} /* Active links */
+
+p:active {
+  background: #eee;
+}
