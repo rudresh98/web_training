@@ -1,0 +1,17 @@
+
+
+
+Fundamentals of software & more ..
+
+SOFTWARE TO DOWNLOAD
+POSTMAN
+https://www.postman.com/downloads/
+
+VSCODE
+https://code.visualstudio.com/
+
+NODEJS (LTS)
+https://nodejs.org/en/
+
+
+
