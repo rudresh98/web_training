@@ -6,7 +6,7 @@ git commit -m "msg"
 // to provide message & to commit our changes
 
 git push origin 
-//to push changes into our git tree & github(flavour).
+// to push changes into our git tree & github(flavour).
 
 git pull 
 // to fetch changes from github(any flavour).
