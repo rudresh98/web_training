@@ -1,0 +1,3 @@
+npm install -g nodemon
+npm -->> node package manager
+install differenct libraris/modules in our project.
