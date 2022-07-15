@@ -1,0 +1,6 @@
+REACT JS 
+Javascript library
+18 
+virtual DOM
+developed/maintained facebook
+single page application

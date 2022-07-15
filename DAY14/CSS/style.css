@@ -1,0 +1,18 @@
+.mystyle {
+  color: blueviolet;
+  text-transform: uppercase;
+  border: 1px solid blue;
+}
+button {
+  color: rgb(232, 228, 228);
+  background-color: rgb(17, 94, 120);
+  border: 0px solid white;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover{
+     color: black;
+     background-color: rgb(195, 87, 87);
+     
+}
