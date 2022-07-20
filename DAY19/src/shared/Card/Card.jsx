@@ -5,7 +5,7 @@ const Card = () => {
     <>
       <div className={styles.mainCard}>
         <div className={styles.cardHeading}>
-          <span className={styles.customSpan}>HEADING</span>
+          <span className={styles.customSpan}>1</span>
         </div>
         <div className={styles.cardText}>
           <div>

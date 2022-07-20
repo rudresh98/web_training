@@ -14,6 +14,9 @@ function Navbar() {
           <li>
             <Link to="/cards">Card</Link>
           </li>
+          <li>
+            <Link to="/counter">Counter</Link>
+          </li>
         </ol>
       </div>
     </>

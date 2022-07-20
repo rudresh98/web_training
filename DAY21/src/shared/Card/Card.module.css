@@ -1,6 +1,7 @@
 
 .cardImg {
-  height: 10vmin;
+  height: 20vmin;
+  margin-top: 47px;
 }
 .cardHeading {
   font-weight: 600;
@@ -11,8 +12,9 @@
 .mainCard {
   border: 1px solid black;
   margin: 10px;
-  width: 250px;
+  width: 500px;
   box-shadow: 10px 10px  5px lightblue ;
+  height: 300px;
 }
 .cardText {
   display: flex;

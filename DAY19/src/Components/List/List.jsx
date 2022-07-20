@@ -1,6 +1,7 @@
 import style from "./List.module.css";
 import Card from "../../shared/Card/Card";
 const List = () => {
+  console.debug('LISTS')
   const text = "DEMO";
   const date = JSON.stringify(new Date().toTimeString());
   return (

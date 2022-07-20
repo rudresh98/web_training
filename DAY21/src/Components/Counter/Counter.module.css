@@ -1,0 +1,56 @@
+.custombtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+.customclr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+.customclr > button {
+  margin: 10px;
+  padding: 10px 25px 10px 25px;
+  cursor: pointer;
+  background-color: rgb(238, 50, 50);
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.custombtn button:first-child {
+  margin: 10px;
+  padding: 10px 25px 10px 25px;
+  color: white;
+  size: 10px;
+  font-weight: bold;
+  background-color: tomato;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.custombtn button:nth-last-child(1) {
+  background-color: rgb(150, 76, 210);
+  margin: 10px;
+  padding: 10px 25px 10px 25px;
+  color: white;
+  size: 10px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.counter > p {
+  color: chartreuse;
+  font-size: 8rem;
+  margin: 0px;
+  padding: 0px;
+}

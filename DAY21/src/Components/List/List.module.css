@@ -1,0 +1,12 @@
+.customText {
+  color: green;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  word-wrap: break-word;
+  margin: 10px;
+}
+.customCard {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
